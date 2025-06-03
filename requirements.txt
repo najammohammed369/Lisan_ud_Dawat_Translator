@@ -3,3 +3,4 @@ google-genai
 uvicorn
 google-cloud-aiplatform
 python-dotenv
+python-multipart
