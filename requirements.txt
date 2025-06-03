@@ -1,0 +1,4 @@
+fastapi
+dotenv
+google-genai
+google-cloud-aiplatform
