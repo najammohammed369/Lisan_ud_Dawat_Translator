@@ -1,4 +1,5 @@
 fastapi
-dotenv
 google-genai
+uvicorn
 google-cloud-aiplatform
+python-dotenv
